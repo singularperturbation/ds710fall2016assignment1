@@ -1,8 +1,35 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+
+Sloane Simmons
+
 2. Why are you interested in Data Science?
+
+I'm interested in Data Science because it's a growing field with a lot of opportunity
+to grow and a lot of room to apply an analytical approach to real-world problems.
+
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+
+The course I took in college were aimed at physics students, and were focused
+on C, IDL, and Fortran.  In my professional / hobby experience, I've used
+Go, Python, Ruby, R, and other languages.  I program at work to
+analyze data, build new software, and maintain existing software.
+
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+
+I have taken statistics for engineers, as well as some lab-oriented statistics
+classes.  I use statistics at work in order to assess effectiveness of ML approaches
+to problems and to evaluate areas of opportunity.
+
 5.  Do you have other experience with R or Python?
+
+I have a lot of experience with R, and am familiar with Python.
+
 6.  What do you hope to learn in this class?
+
+I'd like to know more about details of the Python ecosystem (numpy, matplotlib,
+sckitlearn).  I've used these ocasionally but not in depth.
+
 7.  Is there anything else you would like to share with us?
+
+I'm excited to begin this class!
